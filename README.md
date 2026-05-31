@@ -2,6 +2,8 @@
 
 A responsive weather application built with **React + TypeScript** that provides real-time weather data for any city using an external API.
 
+🔗 **Live Demo:** [Weather App](https://weather-app-eight-red-43.vercel.app)
+
 ---
 
 ## 🚀 Features
